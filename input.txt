@@ -1,0 +1,5 @@
+var v1=45, v2='c'
+const c1=76.35, c2="khulna"
+var v3=53.64, v4="kuet"
+const c3=23, c4='r'
+assign v2="dhaka", v4='g'
